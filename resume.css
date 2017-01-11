@@ -1,0 +1,22 @@
+body{
+
+  background: #ff6e7f; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #ff6e7f , #bfe9ff); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #ff6e7f , #bfe9ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.jum_background{
+  background-image: url("http://colorfully.eu/wp-content/uploads/2012/09/i-need-a-cover-facebook-cover.jpg");
+}
+
+.full_name{
+  color: white ;
+}
+/*.width{
+  height: 500px ;
+
+}
+
+.interest_body{
+  height: 500px
+}*/
